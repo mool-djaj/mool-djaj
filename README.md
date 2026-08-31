@@ -8,7 +8,6 @@ I am a software engineering student with a strong focus on low-level programming
 
 *   💻 **42 Curriculum:** Currently working through the new Common Core.
 *   🛡️ **Cybersecurity:** Actively training on platforms like Hack The Box, SecDojo, and pwn.college. I regularly participate in CTFs (such as Cyber Apocalypse), explore OSINT/geolocation challenges, and dive deep into network enumeration and vulnerability analysis.
-*   🐍 **Custom Tooling:** Developing Python projects (like `Call-me-bb` and interactive visualizers), utilizing libraries like Pydantic to automate operations, streamline workflows, and assist in security labs.
 
 ### 🛠️ Tech Stack & Tools
 
