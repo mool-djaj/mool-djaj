@@ -1,4 +1,6 @@
 <!-- GitHub Profile README — Ayoub Kaarich -->
+[![Elite 1337 rank](https://www.elite-1337.app/api/card/236950.svg?t=G-VsmDfpAymAF5tBCsGfKf1_94-Kb88tz2orFtsxDRE)](https://www.elite-1337.app)
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:14505A&height=190&section=header&text=Ayoub%20Kaarich&fontSize=43&fontColor=64FFDA&fontAlignY=40&animation=fadeIn" alt="Ayoub Kaarich — Profile Header" />
